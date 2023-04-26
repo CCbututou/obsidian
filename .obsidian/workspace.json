@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "3bbafcddc5676ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "366dce1c03db438f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b6db6f5b7d2f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3dd4e8fbf886eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "987dbc5670d8f4fa",
+        "type": "tabs",
+        "dimension": 63.92785571142284,
+        "children": [
+          {
+            "id": "a4d1994dfc9f1870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce044dedd57e8849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "久坐",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "8857362beab68c4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ea8d6f6779182a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "92910ae8836a7b22",
+        "type": "tabs",
+        "dimension": 36.07214428857716,
+        "children": [
+          {
+            "id": "46ac18e336e17ae3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md"
+              }
+            }
+          },
+          {
+            "id": "853ef9e400d6f719",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "401ecf6c95e31916",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "687dfb8cd0c53082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "c718ea3b78af998f",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 386.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "83b6db6f5b7d2f7e",
+  "lastOpenFiles": [
+    "Calendar/Daily notes/Daily notes归档/2022/2022-03-19.md",
+    "🍀 花园导览/🤖 如何用好AIGC工具.md",
+    "🍀 花园导览/🧀 个人知识管理.md",
+    "README.md",
+    "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/midjouney 令人惊艳的地方.md",
+    "Calendar/Daily notes/2023-04-12.md",
+    "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-05.md",
+    "Cards/永久笔记/阿里云-云原生-ACA认证-笔记.md",
+    "Calendar/Daily notes/2023-04-10.md",
+    "Calendar/Daily notes/Daily notes归档/2023-04-09.md",
+    "Calendar/Daily notes/Daily notes归档/2023-04-04.md",
+    "Calendar/Daily notes/Daily notes归档/2023-04-05.md",
+    "Cards/永久笔记/chatgpt 超长对话的技巧.md",
+    "Calendar/Daily notes/Daily notes归档/2023-04-01.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-31.md",
+    "Cards/永久笔记/Obsidian 不适合做什么以及其补足配合的软件.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-28.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-25.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-26.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-22.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-21.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-20.md",
+    "Calendar/Daily notes/Daily notes归档/2023-03-19.md",
+    "Cards/永久笔记/notion database 如何批量复制粘贴数据.md",
+    "Cards/永久笔记/Super.so.md",
+    "Extras/Media/ChatGPT高质量prompt技巧分享.pdf",
+    "Untitled.table",
+    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
+    "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
+    "Extras/Media/【极客时间】李佳芮：ChatGPT 从0到1.pdf",
+    "Extras/Media/Pasted image 20230305120820.png",
+    "Extras/Media/Pasted image 20230305122456.png",
+    "Extras/Media/Pasted image 20230312131834.png",
+    "Extras/Media/Pasted image 20230317221306.png",
+    "Extras/Media/Pasted image 20230329192147.png",
+    "Extras/Media/Screenshot_2022-11-20-18-40-36-52_d138286dbdf585e65d8870f8ad4cb89b.jpg",
+    "Extras/Media/2022年元宇宙Meta知识精选笔记分享-2022.pdf",
+    "Extras/Media/16799226083092.png",
+    "Extras/Media/1679922749389.jpg",
+    "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
+    "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
+    "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
+    "Sources/Courses/AI大模型之美",
+    "Sources/Courses/Service Mesh实战",
+    "Sources/Courses/深入剖析 Kubernetes",
+    "Atlas/Canvas/PPV人生管理系统.canvas",
+    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
+    "Sources/Podcasts/Notes",
+    "Sources/Podcasts",
+    "PodNotes_Export1.opml",
+    "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas",
+    "Atlas/Canvas/canvas尝试当做ppt的可行性.canvas",
+    "Atlas/Draws/白板 2023-03-11.dark.svg",
+    "Atlas/Draws/白板 2023-03-11.light.svg"
+  ]
+}
